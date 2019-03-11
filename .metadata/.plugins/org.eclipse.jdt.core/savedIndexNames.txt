@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+J:\1. Files\Education\4. Uni Computer Science\Year 1\CS1702 - Introductory Programming\Labs\eclipseWorkspace\Dom's Game Of Life\.metadata\.plugins\org.eclipse.jdt.core
+4223037866.index
+2842528100.index
